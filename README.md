@@ -1,5 +1,6 @@
 [mech-library-link]: https://github.com/mechanismsjs/mech-library "Clone to easily create new mechanism libraries"
 [mech-core-link]: https://github.com/mechanismsjs/mech-core "Core mechanisms"
+[mech-core-c-link]: https://github.com/mechanismsc/mech-core "Core mechanisms"
 [mech-web-link]: https://github.com/mechanismsjs/mech-web "Web centric DOM mechanisms"
 [mech-math-link]: https://github.com/mechanismsjs/mech-math "Math mechanisms"
 [mech-guid-link]: https://github.com/mechanismsjs/mech-guid "Mechanisms for guids"
@@ -20,11 +21,12 @@ Posts:
 * [General Introduction to Mechanisms](http://www.erichosick.com/design/design-mechanisms-and-policies/)
 * [Generating Sequences Using Emitters](http://www.erichosick.com/design/design-sequences-with-emitters/)
 
-## Libraries (so far)
+# Libraries (so far)
 
-* [mech-core][mech-core-link] - Core mechanisms. This project.
+## Javascript
+
+* [mech-core][mech-core-link] - Core mechanisms.
 * [mech-library][mech-library-link] - Clone and start making your own mechanism libraries.
-
 * [mech-async][mech-async-link] - Mechanisms to support asynchronous callbacks.
 * [mech-ajax][mech-ajax-link] - Mechanisms for ajax calls.
 * [mech-emit][mech-emit-link] - Mechanisms that emit data.
@@ -34,3 +36,7 @@ Posts:
 * [mech-scope-cell][mech-scope-cell-link] - Cell based scoping mechanisms.
 * [mech-scope-stack][mech-scope-stack-link] - Stack based scoping mechanisms.
 * [mech-web][mech-web-link] - Web centric DOM mechanisms.
+
+## C Language
+
+* [mech-core][mech-core-c-link] - Core mechanisms.
