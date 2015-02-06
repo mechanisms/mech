@@ -12,6 +12,8 @@
 [mech-ajax-link]: https://github.com/mechanismsjs/mech-ajax "Mechanisms for ajax calls."
 [mech-home-link]: https://github.com/mechanisms/mech "Home repository for mechanisms"
 
+[mechanisms-rust-link]: https://github.com/mechanisms-rs "Organization for Rust mechanisms"
+
 # mech
 
 Mechanisms are plugins for open source.
@@ -40,3 +42,8 @@ Posts:
 ## C Language
 
 * [mech-core][mech-core-c-link] - Core mechanisms.
+
+## Rust Language
+
+* [mech-core][mechanisms-rust-link] - Organization for rust mechanisms.
+
