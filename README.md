@@ -11,11 +11,9 @@
 [mech-mongo-link]: https://github.com/mechanismsjs/mech-mongo "Mechanism wrapper around mongodb."
 [mech-ajax-link]: https://github.com/mechanismsjs/mech-ajax "Mechanisms for ajax calls."
 [mech-home-link]: https://github.com/mechanisms/mech "Home repository for mechanisms"
-
 [mechanisms-js-link]: https://github.com/mechanismsjs "Organization for Javascript mechanisms"
 [mechanisms-c-link]: https://github.com/mechanisms-c "Organization for C mechanisms"
 [mechanisms-rust-link]: https://github.com/mechanisms-rs "Organization for Rust mechanisms"
-
 
 # mech
 
@@ -31,7 +29,6 @@ Posts:
 ## Javascript
 
 * [mechanisms-js organization][mechanisms-js-link] - Organization for Javascript mechanisms.
-
 * [mech-core][mech-core-link] - Core mechanisms.
 * [mech-library][mech-library-link] - Clone and start making your own mechanism libraries.
 * [mech-async][mech-async-link] - Mechanisms to support asynchronous callbacks.
