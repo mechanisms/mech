@@ -12,7 +12,10 @@
 [mech-ajax-link]: https://github.com/mechanismsjs/mech-ajax "Mechanisms for ajax calls."
 [mech-home-link]: https://github.com/mechanisms/mech "Home repository for mechanisms"
 
+[mechanisms-js-link]: https://github.com/mechanismsjs "Organization for Javascript mechanisms"
+[mechanisms-c-link]: https://github.com/mechanisms-c "Organization for C mechanisms"
 [mechanisms-rust-link]: https://github.com/mechanisms-rs "Organization for Rust mechanisms"
+
 
 # mech
 
@@ -26,6 +29,8 @@ Posts:
 # Libraries (so far)
 
 ## Javascript
+
+* [mechanisms-js organization][mechanisms-js-link] - Organization for Javascript mechanisms.
 
 * [mech-core][mech-core-link] - Core mechanisms.
 * [mech-library][mech-library-link] - Clone and start making your own mechanism libraries.
@@ -41,9 +46,10 @@ Posts:
 
 ## C Language
 
+* [mechanisms-c organization][mechanisms-c-link] - Organization for C mechanisms.
 * [mech-core][mech-core-c-link] - Core mechanisms.
 
 ## Rust Language
 
-* [mech-core][mechanisms-rust-link] - Organization for rust mechanisms.
+* [mechanisms-rs organization][mechanisms-rust-link] - Organization for rust mechanisms.
 
