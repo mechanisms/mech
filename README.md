@@ -1,6 +1,6 @@
 [mech-library-link]: https://github.com/mechanismsjs/mech-library "Clone to easily create new mechanism libraries"
 [mech-core-link]: https://github.com/mechanismsjs/mech-core "Core mechanisms"
-[mech-core-c-link]: https://github.com/mechanismsc/mech-core "Core mechanisms"
+[mech-core-c-link]: https://github.com/mechanisms-c/mech-core "Core mechanisms"
 [mech-web-link]: https://github.com/mechanismsjs/mech-web "Web centric DOM mechanisms"
 [mech-math-link]: https://github.com/mechanismsjs/mech-math "Math mechanisms"
 [mech-guid-link]: https://github.com/mechanismsjs/mech-guid "Mechanisms for guids"
